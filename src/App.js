@@ -9,8 +9,8 @@ function App() {
   return (
       <div className="container-sm">
           <div className="row">
-              <Reg></Reg>
-              <Aut></Aut>
+             {/* <Reg></Reg>
+              <Aut></Aut>*/}
               <NovaPoshta></NovaPoshta>
           </div>
       </div>
